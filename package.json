@@ -1,0 +1,25 @@
+{
+  "name": "CS648_Assignment_5",
+  "version": "1.0.0",
+  "description": "An intro to SASS, SCSS, and Gulp",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified, but you're cool for trying!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jbyerline/CS648_Assignment_5.git"
+  },
+  "keywords": [],
+  "author": "Jacob Byerline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jbyerline/CS648_Assignment_5/issues"
+  },
+  "homepage": "https://github.com/jbyerline/CS648_Assignment_5#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^4.14.1"
+  }
+}
